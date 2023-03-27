@@ -5,6 +5,7 @@ import './index.css';
 import Hello from './components/Hello';
 import reportWebVitals from './reportWebVitals';
 // import { Parent } from './components/Parent';
+// import { UseMemoSample } from './components/UseMemoSample';
 // import Counter from './components/Counter';
 // import Counter2 from './components/Counter2';
 // import Parent from './components/ContainerSample';
@@ -23,6 +24,7 @@ root.render(
     {/* <Counter initialValue={0} /> */}
     {/* <Counter2 initialValue={0} /> */}
     {/* <Parent /> */}
+    {/* <UseMemoSample /> */}
   </React.StrictMode>
 );
 
