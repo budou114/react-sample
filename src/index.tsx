@@ -4,6 +4,7 @@ import './index.css';
 // import App from './App';
 import Hello from './components/Hello';
 import reportWebVitals from './reportWebVitals';
+// import Counter from './components/Counter';
 // import Parent from './components/ContainerSample';
 // import Page from './components/ContextSample';
 // import Message from './components/Message';
@@ -17,6 +18,7 @@ root.render(
     {/* <Message /> */}
     {/* <Parent /> */}
     {/* <Page /> */}
+    {/* <Counter initialValue={0} /> */}
   </React.StrictMode>
 );
 
