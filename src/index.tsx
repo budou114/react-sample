@@ -4,7 +4,8 @@ import './index.css';
 // import App from './App';
 import Hello from './components/Hello';
 import reportWebVitals from './reportWebVitals';
-import Parent from './components/ContainerSample';
+// import Parent from './components/ContainerSample';
+// import Page from './components/ContextSample';
 // import Message from './components/Message';
 
 const root = ReactDOM.createRoot(
@@ -15,6 +16,7 @@ root.render(
     <Hello />
     {/* <Message /> */}
     {/* <Parent /> */}
+    {/* <Page /> */}
   </React.StrictMode>
 );
 
