@@ -4,6 +4,7 @@ import './index.css';
 // import App from './App';
 import Hello from './components/Hello';
 import reportWebVitals from './reportWebVitals';
+// import { Parent } from './components/Parent';
 // import Counter from './components/Counter';
 // import Counter2 from './components/Counter2';
 // import Parent from './components/ContainerSample';
@@ -21,6 +22,7 @@ root.render(
     {/* <Page /> */}
     {/* <Counter initialValue={0} /> */}
     {/* <Counter2 initialValue={0} /> */}
+    {/* <Parent /> */}
   </React.StrictMode>
 );
 
